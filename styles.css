@@ -1,0 +1,47 @@
+@media (max-width: 768px) {
+    /* Estilos para telas menores */
+    h1 {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .hero p {
+        font-size: 16px;
+    }
+
+    /* Outros ajustes conforme necessário */
+}
+.reviews {
+         background-color: black; /* Cor de fundo da caixa de avaliação */
+         color: red; /* Cor do texto dentro da caixa de avaliação */
+         margin-bottom: 20px; /* Espaçamento entre as avaliações */
+         }
+
+.servic {
+    background-color: #f0f0f0;
+    color: #black;
+    border: 1px solid #ccc;
+    padding: 20px; /* Espaçamento interno */
+    margin-bottom: 20px; /* Margem inferior */
+}
+/* imagem */
+.imagem {
+    margin-left: 300px; /* Isso move a imagem 50 pixels para a direita */
+}
+
+.whatsapp-link {
+  text-decoration: none; /* Remover sublinhado padrão */
+  color: #25d366; /* Cor do ícone e do texto */
+  margin-right: 1px; /* Espaço à direita do ícone */
+  font-weight: bold; /* Negrito no texto */
+}
+
+}
+
+.instagram-link {
+  text-decoration: none; /* Remover sublinhado padrão */
+  color: #3f729b; /* Cor do ícone e do texto */
+  margin-right: 10px; /* Espaço à direita do ícone */
+  font-weight: bold; /* Negrito no texto */
+}
+
